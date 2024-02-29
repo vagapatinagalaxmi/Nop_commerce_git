@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:28 Test case test_verify started
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:30 browser opening navigating to nop.com
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:31 page title-->Your store. Login
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:34 Test case  test_verify passed

@@ -1,0 +1,163 @@
+2024-02-02 15:53:53,340 : 20 : INFO : root : test_verify : Test case test_verify started : test_Login.py
+2024-02-02 15:53:53,340 : 20 : INFO : root : test_verify : browser started : test_Login.py
+2024-02-02 15:53:53,367 : 20 : INFO : root : test_verify : Test case test_verify passed : test_Login.py
+2024-02-02 15:53:53,665 : 20 : INFO : root : test_Login : Test case test_Login started : test_Login.py
+2024-02-02 15:53:53,666 : 20 : INFO : root : test_Login : browser opened : test_Login.py
+2024-02-02 15:53:53,667 : 20 : INFO : root : test_Login : entering useremail : test_Login.py
+2024-02-02 15:53:54,400 : 20 : INFO : root : test_Login : Entering username--->"admin@yourstore.com" : test_Login.py
+2024-02-02 15:53:54,401 : 20 : INFO : root : test_Login : entering password : test_Login.py
+2024-02-02 15:53:54,679 : 20 : INFO : root : test_Login : password-->"admin" : test_Login.py
+2024-02-02 15:54:14,681 : 20 : INFO : root : test_Login : Click button : test_Login.py
+2024-02-02 15:54:14,908 : 20 : INFO : root : test_Login : Test case test_Login passed : test_Login.py
+2024-02-02 16:06:27,371 : 20 : INFO : root : test_Login : Test case test_Login started 
+2024-02-02 16:06:27,371 : 20 : INFO : root : test_Login : browser opened 
+2024-02-02 16:06:27,372 : 20 : INFO : root : test_Login : entering useremail 
+2024-02-02 16:06:28,076 : 20 : INFO : root : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 16:06:28,076 : 20 : INFO : root : test_Login : entering password 
+2024-02-02 16:06:28,218 : 20 : INFO : root : test_verify : Test case test_verify started 
+2024-02-02 16:06:28,219 : 20 : INFO : root : test_verify : browser started 
+2024-02-02 16:06:28,268 : 20 : INFO : root : test_verify : Test case test_verify passed 
+2024-02-02 16:06:28,493 : 20 : INFO : root : test_Login : password-->"admin" 
+2024-02-02 16:06:48,496 : 20 : INFO : root : test_Login : Click button 
+2024-02-02 16:06:48,741 : 20 : INFO : root : test_Login : Test case test_Login passed 
+2024-02-02 16:09:39,355: 38: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 16:09:39,355: 40: INFO : root : test_Login : browser opened 
+2024-02-02 16:09:39,356: 42: INFO : root : test_Login : entering useremail 
+2024-02-02 16:09:39,477: 21: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 16:09:39,478: 23: INFO : root : test_verify : browser started 
+2024-02-02 16:09:39,527: 27: INFO : root : test_verify : Test case test_verify passed 
+2024-02-02 16:09:40,254: 45: INFO : root : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 16:09:40,254: 46: INFO : root : test_Login : entering password 
+2024-02-02 16:09:40,559: 48: INFO : root : test_Login : password-->"admin" 
+2024-02-02 16:10:00,561: 52: INFO : root : test_Login : Click button 
+2024-02-02 16:10:00,781: 55: INFO : root : test_Login : Test case test_Login passed 
+2024-02-02 16:35:43,737: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 16:35:43,738: 24: INFO : root : test_verify : browser started 
+2024-02-02 16:35:43,767: 28: INFO : root : test_verify : Test case test_verify passed 
+2024-02-02 16:35:44,446: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 16:35:44,447: 42: INFO : root : test_Login : browser opened 
+2024-02-02 16:35:44,447: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 16:35:45,162: 47: INFO : root : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 16:35:45,163: 48: INFO : root : test_Login : entering password 
+2024-02-02 16:35:45,442: 50: INFO : root : test_Login : password-->"admin" 
+2024-02-02 16:36:05,443: 54: INFO : root : test_Login : Click button 
+2024-02-02 16:36:05,647: 57: INFO : root : test_Login : Test case test_Login passed 
+2024-02-02 16:53:55,178: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 16:53:55,178: 24: INFO : root : test_verify : browser started 
+2024-02-02 16:53:57,324: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 16:53:57,325: 42: INFO : root : test_Login : browser opened 
+2024-02-02 16:53:57,326: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:03:34,222: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:03:34,223: 24: INFO : root : test_verify : browser started 
+2024-02-02 17:03:34,262: 28: INFO : root : test_verify : Test case test_verify passed 
+2024-02-02 17:03:38,901: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:03:38,902: 42: INFO : root : test_Login : browser opened 
+2024-02-02 17:03:38,902: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:03:39,435: 47: INFO : root : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 17:03:39,435: 48: INFO : root : test_Login : entering password 
+2024-02-02 17:03:39,723: 50: INFO : root : test_Login : password-->"admin" 
+2024-02-02 17:03:59,725: 54: INFO : root : test_Login : Click button 
+2024-02-02 17:03:59,904: 57: INFO : root : test_Login : Test case test_Login passed 
+2024-02-02 17:04:39,552: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:04:39,553: 42: INFO : root : test_Login : browser opened 
+2024-02-02 17:04:39,554: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:04:40,867: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:04:40,868: 24: INFO : root : test_verify : browser started 
+2024-02-02 17:07:55,531: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:07:55,532: 24: INFO : root : test_verify : browser started 
+2024-02-02 17:07:55,573: 28: INFO : root : test_verify : Test case test_verify passed 
+2024-02-02 17:08:00,311: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:08:00,311: 42: INFO : root : test_Login : browser opened 
+2024-02-02 17:08:00,312: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:08:00,952: 47: INFO : root : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 17:08:00,952: 48: INFO : root : test_Login : entering password 
+2024-02-02 17:08:01,242: 50: INFO : root : test_Login : password-->"admin" 
+2024-02-02 17:08:21,243: 54: INFO : root : test_Login : Click button 
+2024-02-02 17:08:21,427: 57: INFO : root : test_Login : Test case test_Login passed 
+2024-02-02 17:10:53,421: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:10:53,422: 24: INFO : root : test_verify : browser started 
+2024-02-02 17:10:56,444: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:10:56,446: 42: INFO : root : test_Login : browser opened 
+2024-02-02 17:10:56,447: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:23:39,925: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:23:39,926: 42: INFO : root : test_Login : browser opened 
+2024-02-02 17:23:39,926: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:23:39,927: 45: INFO : root : test_Login : entering useremail 
+2024-02-02 17:23:43,010: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:23:43,011: 24: INFO : root : test_verify : browser started 
+2024-02-02 17:27:36,435: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:27:36,436: 42: INFO : root : test_Login : browser opened 
+2024-02-02 17:27:36,437: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:27:36,437: 45: INFO : root : test_Login : entering useremail 
+2024-02-02 17:27:39,266: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:27:39,267: 24: INFO : root : test_verify : browser started 
+2024-02-02 17:32:48,274: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:32:48,276: 24: INFO : root : test_verify : browser started 
+2024-02-02 17:32:49,687: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:32:49,689: 42: INFO : root : test_Login : browser opened 
+2024-02-02 17:32:49,690: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:32:49,690: 45: INFO : root : test_Login : entering useremail 
+2024-02-02 17:40:34,318: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:40:34,319: 24: INFO : root : test_verify : browser opening navigating to demo_nop_com 
+2024-02-02 17:40:36,226: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:40:36,227: 41: INFO : root : test_Login : browser opened 
+2024-02-02 17:40:36,228: 45: INFO : root : test_Login : entering useremail 
+2024-02-02 17:40:36,229: 46: INFO : root : test_Login : entering useremail 
+2024-02-02 17:43:13,833: 40: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:43:13,834: 41: INFO : root : test_Login : browser opened 
+2024-02-02 17:43:13,835: 45: INFO : root : test_Login : entering useremail 
+2024-02-02 17:43:13,835: 46: INFO : root : test_Login : entering useremail 
+2024-02-02 17:43:14,626: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:43:14,627: 24: INFO : root : test_verify : browser opening navigating to demo_nop_com 
+2024-02-02 17:51:48,473: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:51:48,474: 24: INFO : root : test_verify : browser opening navigating to demo_nop_com 
+2024-02-02 17:51:48,513: 25: INFO : root : test_verify : page title-->Your store. Login 
+2024-02-02 17:51:48,527: 28: INFO : root : test_verify : Test case  test_verify passed 
+2024-02-02 17:51:53,489: 39: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:51:53,490: 40: INFO : root : test_Login : browser opened 
+2024-02-02 17:51:53,490: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:51:53,491: 45: INFO : root : test_Login : entering useremail 
+2024-02-02 17:51:54,071: 47: INFO : root : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 17:51:54,071: 48: INFO : root : test_Login : entering password 
+2024-02-02 17:51:54,346: 50: INFO : root : test_Login : password-->"admin" 
+2024-02-02 17:52:14,347: 54: INFO : root : test_Login : Click button 
+2024-02-02 17:52:14,534: 57: INFO : root : test_Login : Test case test_Login passed 
+2024-02-02 17:54:03,758: 39: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:54:03,759: 40: INFO : root : test_Login : browser opened 
+2024-02-02 17:54:03,759: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:54:03,760: 45: INFO : root : test_Login : entering useremail 
+2024-02-02 17:54:04,292: 47: INFO : root : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 17:54:04,293: 48: INFO : root : test_Login : entering password 
+2024-02-02 17:54:04,655: 50: INFO : root : test_Login : password-->"admin" 
+2024-02-02 17:54:04,751: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:54:04,752: 24: INFO : root : test_verify : browser opening navigating to demo_nop_com 
+2024-02-02 17:54:04,799: 25: INFO : root : test_verify : page title-->Your store. Login 
+2024-02-02 17:54:04,813: 28: INFO : root : test_verify : Test case  test_verify passed 
+2024-02-02 17:54:24,657: 54: INFO : root : test_Login : Click button 
+2024-02-02 17:54:24,853: 57: INFO : root : test_Login : Test case test_Login passed 
+2024-02-02 17:59:42,098: 22: INFO : root : test_verify : Test case test_verify started 
+2024-02-02 17:59:42,099: 24: INFO : root : test_verify : browser opening navigating to demo_nop_com 
+2024-02-02 17:59:42,116: 25: INFO : root : test_verify : page title-->Your store. Login 
+2024-02-02 17:59:42,134: 28: INFO : root : test_verify : Test case  test_verify passed 
+2024-02-02 17:59:45,160: 39: INFO : root : test_Login : Test case test_Login started 
+2024-02-02 17:59:45,160: 40: INFO : root : test_Login : browser opened 
+2024-02-02 17:59:45,161: 44: INFO : root : test_Login : entering useremail 
+2024-02-02 17:59:45,161: 45: INFO : root : test_Login : entering useremail 
+2024-02-02 17:59:46,621: 47: INFO : root : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 17:59:46,622: 48: INFO : root : test_Login : entering password 
+2024-02-02 17:59:46,819: 50: INFO : root : test_Login : password-->"admin" 
+2024-02-02 18:00:06,820: 54: INFO : root : test_Login : Click button 
+2024-02-02 18:00:07,128: 57: INFO : root : test_Login : Test case test_Login passed 
+2024-02-02 18:19:50,581: 39: INFO : Test_UserLogin : test_Login : Test case test_Login started 
+2024-02-02 18:19:50,583: 40: INFO : Test_UserLogin : test_Login : browser opened 
+2024-02-02 18:19:50,584: 44: INFO : Test_UserLogin : test_Login : entering useremail 
+2024-02-02 18:19:50,584: 45: INFO : Test_UserLogin : test_Login : entering useremail 
+2024-02-02 18:19:51,679: 47: INFO : Test_UserLogin : test_Login : Entering username--->"admin@yourstore.com" 
+2024-02-02 18:19:51,679: 48: INFO : Test_UserLogin : test_Login : entering password 
+2024-02-02 18:19:52,222: 50: INFO : Test_UserLogin : test_Login : password-->"admin" 
+2024-02-02 18:19:53,856: 22: INFO : Test_UserLogin : test_verify : Test case test_verify started 
+2024-02-02 18:19:53,856: 24: INFO : Test_UserLogin : test_verify : browser opening navigating to demo_nop_com 
+2024-02-02 18:19:53,864: 25: INFO : Test_UserLogin : test_verify : page title-->Your store. Login 
+2024-02-02 18:19:53,872: 28: INFO : Test_UserLogin : test_verify : Test case  test_verify passed 
+2024-02-02 18:20:12,224: 54: INFO : Test_UserLogin : test_Login : Click button 
+2024-02-02 18:20:12,586: 57: INFO : Test_UserLogin : test_Login : Test case test_Login passed 

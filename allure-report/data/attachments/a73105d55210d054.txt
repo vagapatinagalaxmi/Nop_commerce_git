@@ -1,0 +1,9 @@
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:16 Test case test_Login_Param_004 started
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:18 Browser is opened
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:20 Entering_username
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:23 Entering_Passwordadmin@yourstore.com1
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:26 Click on login_buttonadmin1
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:52  Test case  failed
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:54 Expected result failed
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:68 Test case test_Login_Param_004 passed
+[32mINFO    [0m Test_LoginParams:test_login_params_003.py:73 Test case test_User_Login_Params_004 completed

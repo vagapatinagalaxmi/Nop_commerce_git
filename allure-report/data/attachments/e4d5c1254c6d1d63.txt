@@ -1,0 +1,15 @@
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:20 Test case test_search_edit_006 started
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:21 Browser invoked to nop.com
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:24 Entering username
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:26 Enter password
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:28 Click login button
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:31 Click Customer main button
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:33 Click customer sub button
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:35 Enter email
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:37 Click search button<bound method search_employeeClass.Email of <PageObject.SearchPage.search_employeeClass object at 0x00000190E1C4D1D0>>
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:41 Click Edit button
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:43 Enter password
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:45 Click password change
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:47 Click save Button
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:50 Test case test_search_edit_006 passed
+[32mINFO    [0m Test_search_edit:test_Search_edit_employee_006.py:63 Test case test_search_edit_006 completed

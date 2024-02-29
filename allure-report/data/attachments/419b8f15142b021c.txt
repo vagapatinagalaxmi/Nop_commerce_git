@@ -1,0 +1,23 @@
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:22 Test case Test_Add_Customer started
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:23 browser navigated to nopcommerce.com
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:26 Enter the useremail
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:28 Enter the password
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:30 Click to Login Button
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:33 Click to Customer menu button
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:35 Click the Customer sub button 
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:37 Click Add customer Button
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:39 Generating Random email
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:41 Generating email---> xfnh@yahoo.com
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:43 Entering Password
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:45 Selecting Gender
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:47 Entering date of birth
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:49 Entering company name
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:51 Click the Check box
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:53 Entering Newsletter
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:55 Select Newsletter list
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:57 Entering Manager of vendor
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:59 Click the Active checkbox
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:61 Enter the Admin comments
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:63 Click save button
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:66 Test case test_Add_Customer passed
+[32mINFO    [0m Test_AddCustomer:test_AddCustomer_004.py:67 take the screenshots

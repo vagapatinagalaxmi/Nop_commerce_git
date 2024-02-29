@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:50 Test case test_Login started
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:51 browser opene navigated to nop.com
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:55 Entering useremail
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:58 Entering username--->admin@yourstore.com
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:59 entering password
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:61 password-->admin
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:62 Click button
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:67 Test case test_Login passed
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:68 take the Screenshort
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:73 clickLogout button
+[32mINFO    [0m Test_UserLogin:test_Login_001.py:83 test case test_Login completed

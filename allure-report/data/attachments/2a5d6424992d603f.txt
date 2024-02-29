@@ -1,0 +1,31 @@
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:21 Test case test_login_ddt started
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:24 browser open navigated to nop.com
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:29 Creating for loop
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:38 Entering username
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:41 Entering password
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:44 Click login button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:46 Click logout button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:51 Login pass
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:54 Expected pass
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:58 Take Screenshot
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:60 Click logout button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:38 Entering username
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:41 Entering password
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:44 Click login button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:46 Click logout button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:75  login Fail
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:78 Expected Login fail
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:38 Entering username
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:41 Entering password
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:44 Click login button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:46 Click logout button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:75  login Fail
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:78 Expected Login fail
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:38 Entering username
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:41 Entering password
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:44 Click login button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:46 Click logout button
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:75  login Fail
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:78 Expected Login fail
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:96 Test_case test_user_login_DDT_005 is Passed 
+[32mINFO    [0m Test_login_DDt:test_login_DDT_002.py:98 Test_case test_login_DDT is Completed

@@ -1,0 +1,15 @@
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:22 Test case test_AddCustomer_DDt_004 started
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:23 Browser navigated to nopcommerce.com
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:27 Entering Useremail-->admin@yourstore.com
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:29 Entering password-->admin
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:31 Click the login Button
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:34 Click the Customer main button
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:36 Click customer sub button
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:38 Click the AddCustomer button
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:70 Take the screenshots
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:70 Take the screenshots
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:70 Take the screenshots
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:70 Take the screenshots
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:70 Take the screenshots
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:82 test_addCustomer_ddt_004 is Passed
+[32mINFO    [0m Test_AddCustomer_DDT:test_AddCustomer_DDT_005.py:87 test_addCustomer_ddt_004 is Completed
